@@ -1,7 +1,5 @@
-mobaplugin-mysql
-================
-
 MobaXterm Plugin Mysql
+================
 
 
 Mysql client applications.
